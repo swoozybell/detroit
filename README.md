@@ -1,2 +1,2 @@
 # detroit
-detroit
+detroit pra nós
